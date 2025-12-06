@@ -19,7 +19,7 @@ Aplikasi mobile untuk mengelola inventaris bahan makanan di supermarket. Aplikas
 
 Berikut adalah demo dari aplikasi yang saya buat, jika ada kekurangan saya mohon maaf.
 
-![Demo Aplikasi](/docs/demo-aplikasi.mp4)
+[![Demo Aplikasi](/docs/demo-aplikasi.mp4)](https://github.com/user-attachments/assets/ca8d5158-acaa-4eb9-829b-0b0ad669d9d8)
 
 ---
 
