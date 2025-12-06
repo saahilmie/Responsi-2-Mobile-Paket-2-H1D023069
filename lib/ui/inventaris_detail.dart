@@ -209,7 +209,8 @@ class _InventarisDetailState extends State<InventarisDetail> {
                                 borderRadius: BorderRadius.circular(16),
                               ),
                               child: const Icon(
-                                Icons.shopping_basket,
+                                Icons.storefront
+,
                                 size: 50,
                                 color: Color(0xFF8da750),
                               ),

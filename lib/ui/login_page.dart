@@ -84,7 +84,8 @@ class _LoginPageState extends State<LoginPage> {
               children: [
                 const SizedBox(height: 40),
                 Icon(
-                  Icons.shopping_basket,
+                  Icons.storefront
+,
                   size: 80,
                   color: const Color(0xFF8da750),
                 ),

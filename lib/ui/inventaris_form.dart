@@ -167,7 +167,8 @@ class _InventarisFormState extends State<InventarisForm> {
                           decoration: InputDecoration(
                             labelText: 'Nama Bahan Makanan',
                             hintText: 'Contoh: Beras Premium',
-                            prefixIcon: const Icon(Icons.shopping_basket),
+                            prefixIcon: const Icon(Icons.storefront
+),
                             border: OutlineInputBorder(
                               borderRadius: BorderRadius.circular(12),
                             ),

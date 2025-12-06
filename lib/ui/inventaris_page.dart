@@ -131,7 +131,7 @@ class _InventarisPageState extends State<InventarisPage> {
     return Scaffold(
       backgroundColor: const Color(0xFFf5f8f2),
       appBar: AppBar(
-        title: Text('Inventaris Bahan Makanan ${_userName ?? ''}'),
+        title: Text('Inventaris Bahan ${_userName ?? ''}'),
         backgroundColor: const Color(0xFF8da750),
         foregroundColor: Colors.white,
         elevation: 0,
@@ -175,7 +175,7 @@ class _InventarisPageState extends State<InventarisPage> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Icon(
-                        Icons.inventory_2_outlined,
+                        Icons.storefront_outlined,
                         size: 100,
                         color: Colors.grey[400],
                       ),
@@ -240,7 +240,8 @@ class _InventarisPageState extends State<InventarisPage> {
                                         borderRadius: BorderRadius.circular(10),
                                       ),
                                       child: const Icon(
-                                        Icons.shopping_basket,
+                                        Icons.storefront
+,
                                         color: Color(0xFF8da750),
                                         size: 28,
                                       ),

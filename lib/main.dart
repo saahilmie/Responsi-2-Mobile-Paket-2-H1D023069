@@ -103,7 +103,8 @@ class _SplashCheckState extends State<SplashCheck> {
                 borderRadius: BorderRadius.circular(30),
               ),
               child: const Icon(
-                Icons.shopping_basket,
+                Icons.storefront
+,
                 size: 80,
                 color: Color(0xFF8da750),
               ),
@@ -121,7 +122,7 @@ class _SplashCheckState extends State<SplashCheck> {
             const Text(
               'Khonsaa',
               style: TextStyle(
-                fontSize: 16,
+                fontSize: 24,
                 color: Colors.white70,
               ),
             ),
